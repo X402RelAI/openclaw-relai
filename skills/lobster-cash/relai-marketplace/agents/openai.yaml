@@ -1,0 +1,8 @@
+interface:
+  display_name: "RelAI Marketplace"
+  short_description: "Call paid APIs via x402 micropayments on Solana"
+  brand_color: "#6366F1"
+  default_prompt: "Find and call a paid API on RelAI for"
+
+policy:
+  allow_implicit_invocation: true
